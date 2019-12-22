@@ -11,7 +11,7 @@ fix_xcursor &
 nm-applet &
 pamac-tray &
 xfce4-power-manager &
-wal -i ~/Pictures/wallpaper8.jpg -o wal-set &
+wal -i ~/Pictures/ -o wal-set &
 
 
 
